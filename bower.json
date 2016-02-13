@@ -6,7 +6,7 @@
     "David Victor <david@techbro.biz>"
   ],
   "description": "sass-utility-variables",
-  "main": "dist/sass-utility-variables.scss",
+  "main": "dist/sass/sass-utility-variables.scss",
   "keywords": [
     "sass",
     "yolo",
