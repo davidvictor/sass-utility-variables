@@ -1,0 +1,20 @@
+{
+  "name": "roar-sass-utility-variables",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davidvictor/sass-utility-variables",
+  "authors": [
+    "David Victor <david@techbro.biz>"
+  ],
+  "description": "sass-utility-variables",
+  "main": "dist/sass-utility-variables.scss",
+  "keywords": [
+    "sass",
+    "yolo",
+    "roar"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+    "sassy-lists": "git@github.com:at-import/SassyLists.git#master"
+  }
+}
